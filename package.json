@@ -1,0 +1,12 @@
+{
+  "name": "jsdomtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/KarelJanVanHaute/jsdomtest",
+  "author": "Karel-Jan Van Haute <88485726+KarelJanVanHaute@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "jsdom": "^22.1.0"
+  }
+}
